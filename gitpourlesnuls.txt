@@ -1,4 +1,4 @@
-Commandes importantes git:
+﻿Commandes très importantes git:
 
 Avant de commencer a travailler & Apres avoir fait des modifications:
 
