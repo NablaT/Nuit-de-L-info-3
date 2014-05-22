@@ -1,4 +1,8 @@
-﻿Commandes importantes git youhou:
+﻿<<<<<<< HEAD
+﻿Commandes très importantes git youhou:
+=======
+﻿Commandes très importantes git:
+>>>>>>> 2c564601cd64f886d2b5565bab1561eacf475c8e
 
 Avant de commencer a travailler & Apres avoir fait des modifications:
 
