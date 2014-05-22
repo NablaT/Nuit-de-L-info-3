@@ -1,4 +1,4 @@
-Commandes importantes git:
+﻿Commandes importantes git youhou:
 
 Avant de commencer a travailler & Apres avoir fait des modifications:
 
